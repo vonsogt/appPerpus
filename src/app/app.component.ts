@@ -33,8 +33,8 @@ export class AppComponent implements OnInit {
       icon: 'information-circle'
     },
     {
-      title: 'Login',
-      url: '/folder/Login',
+      title: 'Masuk',
+      url: '/login',
       icon: 'enter'
     }
   ];
