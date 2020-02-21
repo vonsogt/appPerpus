@@ -1,6 +1,19 @@
 # Aplikasi Perpustakaan
 Aplikasi elektronik perpustakaan cross-platform
 
-# Tampilan
-## Menu samping
-<img src="https://i.imgur.com/06bBuhn.png" alt="Sidemenu-app" width="200" height="400">
+## Instalasi
+1. Klon/Unduh projek ini
+
+   `git clone https://github.com/vonsogt/appPerpus.git`
+2. Pindah ke direktori
+
+   `cd appPerpus`
+3. Install modul
+
+   `npm install`
+4. Jalankan aplikasi
+
+   `ionic serve`
+
+## Tampilan
+![tempilan](https://user-images.githubusercontent.com/35516476/74917927-e8bf4500-53fa-11ea-94f6-5b7c4554d713.png)
